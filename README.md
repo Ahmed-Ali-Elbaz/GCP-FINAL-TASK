@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a DevOps Engineer...
 
-# CICD Pipeline helloworld python app using /Docker/Terraform/GKE CLuster
+# Deploy helloworld python app using /Docker/Terraform/GCR/GKE Cluster
 
 
 ![image](https://drive.google.com/uc?export=view&id=1Jy2B409ayrUye4nMwfSULdKEqWt_QU_H)
