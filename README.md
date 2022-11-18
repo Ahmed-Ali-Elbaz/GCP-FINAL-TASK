@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a DevOps Engineer...
 
-# Deploy helloworld python app using /Docker/Terraform/GCR/GKE Cluster
+# Deploy helloworld python app on GKE cluster using /Docker/Terraform/GCR/GKE cluster
 
 
 ![image](https://drive.google.com/uc?export=view&id=1Jy2B409ayrUye4nMwfSULdKEqWt_QU_H)
