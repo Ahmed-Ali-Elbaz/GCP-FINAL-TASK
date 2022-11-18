@@ -1,4 +1,5 @@
-FROM python:3.7
+# base image
+FROM python:3.7 
 
 # make a directory for python app
 WORKDIR /app
