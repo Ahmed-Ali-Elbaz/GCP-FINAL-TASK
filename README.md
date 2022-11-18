@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a DevOps Engineer...
 
-# CICD Pipeline helloworld nodejs app using /Docker/Jenkins/Terraform/GKE with Slack Notification. (APP-REPO)
+# CICD Pipeline helloworld python app using /Docker/Terraform/GKE CLuster
 
 
 ![image](https://drive.google.com/uc?export=view&id=1Jy2B409ayrUye4nMwfSULdKEqWt_QU_H)
